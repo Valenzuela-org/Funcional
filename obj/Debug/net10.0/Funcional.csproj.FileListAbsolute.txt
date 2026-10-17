@@ -13,3 +13,18 @@ C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\refint\Funciona
 C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\Funcional.pdb
 C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\Funcional.genruntimeconfig.cache
 C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\ref\Funcional.dll
+D:\Proyectos\C#\huesos\Funcional\bin\Debug\net10.0\Funcional.exe
+D:\Proyectos\C#\huesos\Funcional\bin\Debug\net10.0\Funcional.deps.json
+D:\Proyectos\C#\huesos\Funcional\bin\Debug\net10.0\Funcional.runtimeconfig.json
+D:\Proyectos\C#\huesos\Funcional\bin\Debug\net10.0\Funcional.dll
+D:\Proyectos\C#\huesos\Funcional\bin\Debug\net10.0\Funcional.pdb
+D:\Proyectos\C#\huesos\Funcional\obj\Debug\net10.0\Funcional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\C#\huesos\Funcional\obj\Debug\net10.0\Funcional.AssemblyInfoInputs.cache
+D:\Proyectos\C#\huesos\Funcional\obj\Debug\net10.0\Funcional.AssemblyInfo.cs
+D:\Proyectos\C#\huesos\Funcional\obj\Debug\net10.0\Funcional.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\huesos\Funcional\obj\Debug\net10.0\Funcional.sourcelink.json
+D:\Proyectos\C#\huesos\Funcional\obj\Debug\net10.0\Funcional.dll
+D:\Proyectos\C#\huesos\Funcional\obj\Debug\net10.0\refint\Funcional.dll
+D:\Proyectos\C#\huesos\Funcional\obj\Debug\net10.0\Funcional.pdb
+D:\Proyectos\C#\huesos\Funcional\obj\Debug\net10.0\Funcional.genruntimeconfig.cache
+D:\Proyectos\C#\huesos\Funcional\obj\Debug\net10.0\ref\Funcional.dll
