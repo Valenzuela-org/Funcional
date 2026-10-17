@@ -1,0 +1,15 @@
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\bin\Debug\net10.0\Funcional.exe
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\bin\Debug\net10.0\Funcional.deps.json
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\bin\Debug\net10.0\Funcional.runtimeconfig.json
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\bin\Debug\net10.0\Funcional.dll
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\bin\Debug\net10.0\Funcional.pdb
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\Funcional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\Funcional.AssemblyInfoInputs.cache
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\Funcional.AssemblyInfo.cs
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\Funcional.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\Funcional.sourcelink.json
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\Funcional.dll
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\refint\Funcional.dll
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\Funcional.pdb
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\Funcional.genruntimeconfig.cache
+C:\Users\Andy\OneDrive\Nueva carpeta\Funcional\obj\Debug\net10.0\ref\Funcional.dll
